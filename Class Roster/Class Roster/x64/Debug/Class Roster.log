@@ -1,0 +1,5 @@
+﻿  roster.cpp
+C:\Users\Admin\OneDrive\Desktop\Class Roster\Class Roster\degree.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'roster.cpp')
+  
+  Class Roster.vcxproj -> C:\Users\Admin\OneDrive\Desktop\Class Roster\Class Roster\x64\Debug\Class Roster.exe
